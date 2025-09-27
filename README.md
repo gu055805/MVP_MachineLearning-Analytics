@@ -51,7 +51,6 @@ Ele contém registros de vendas semanais de múltiplos produtos, com as seguinte
 - RandomForest obteve melhor desempenho:  
   - MAE ≈ **2.21**  
   - WMAPE ≈ **26%**  
-- Ensemble mostrou previsões mais **estáveis e robustas**  
 
 ---
 
